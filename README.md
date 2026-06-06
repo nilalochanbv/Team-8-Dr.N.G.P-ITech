@@ -31,44 +31,46 @@ This gap creates an opportunity for a next-generation employability platform.
 Total Project Budget: ₹50,00,000
 
 ┌─────────────────────────────────────────────┐
-│        HUMAN RESOURCES (70%)                │
-│            ₹35,00,000                       │
+│          HUMAN RESOURCES (70%)              │
+│              ₹35,00,000                     │
 ├─────────────────────────────────────────────┤
-│ Project Manager        : ₹ 8,00,000         │
-│ Business Analyst       : ₹ 5,00,000         │
-│ Frontend Developer     : ₹ 7,00,000         │
-│ Backend Developer      : ₹ 9,00,000         │
-│ Tester / QA Engineer   : ₹ 6,00,000         │
+│ Project Manager          : ₹ 8,00,000       │
+│ Business Analyst         : ₹ 5,00,000       │
+│ Frontend Developer       : ₹ 7,00,000       │
+│ Backend Developer        : ₹ 9,00,000       │
+│ Tester / QA Engineer     : ₹ 6,00,000       │
 ├─────────────────────────────────────────────┤
-│ Total HR Cost          : ₹35,00,000         │
+│ Total HR Cost            : ₹35,00,000       │
 └─────────────────────────────────────────────┘
 
 
 ┌─────────────────────────────────────────────┐
-│      PROJECT REQUIREMENTS (30%)             │
-│            ₹15,00,000                       │
+│        PROJECT REQUIREMENTS (30%)           │
+│              ₹15,00,000                     │
 ├─────────────────────────────────────────────┤
-│ Cloud Infrastructure   : ₹ 4,00,000         │
-│ AI APIs / LLM Usage    : ₹ 3,00,000         │
-│ UI/UX & Design Tools   : ₹ 1,00,000         │
-│ Testing Tools          : ₹ 1,50,000         │
-│ Database & Storage     : ₹ 1,50,000         │
-│ Domain & Hosting       : ₹   50,000         │
-│ Security & Monitoring  : ₹ 1,00,000         │
-│ Miscellaneous Buffer   : ₹ 3,50,000         │
+│ Cloud Infrastructure     : ₹ 4,00,000       │
+│ AI APIs / LLM Usage      : ₹ 3,00,000       │
+│ UI/UX & Design Tools     : ₹ 1,00,000       │
+│ Testing Tools            : ₹ 1,50,000       │
+│ Database & Storage       : ₹ 1,50,000       │
+│ Domain & Hosting         : ₹   50,000       │
+│ Security & Monitoring    : ₹ 1,00,000       │
+│ Miscellaneous Buffer     : ₹ 3,50,000       │
 ├─────────────────────────────────────────────┤
-│ Total Requirement Cost : ₹15,00,000         │
+│ Total Requirement Cost   : ₹15,00,000       │
 └─────────────────────────────────────────────┘
 
 
 ┌─────────────────────────────────────────────┐
-│           FINAL BUDGET SUMMARY              │
+│            FINAL BUDGET SUMMARY             │
 ├─────────────────────────────────────────────┤
-│ Human Resources      : ₹35,00,000           │
-│ Project Requirements : ₹15,00,000           │
+│ Human Resources        : ₹35,00,000         │
+│ Project Requirements   : ₹15,00,000         │
 ├─────────────────────────────────────────────┤
-│ GRAND TOTAL          : ₹50,00,000           │
+│ GRAND TOTAL            : ₹50,00,000         │
 └─────────────────────────────────────────────┘
+```
+
 # Team Resource Allocation
 
 ## Project Team Structure
