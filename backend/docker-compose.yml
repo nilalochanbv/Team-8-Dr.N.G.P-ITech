@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  skillos-backend:
+    build: .
+    ports:
+      - "5050:5050"
+    volumes:
+      - ./skillos.db:/app/skillos.db
+      - ./public/uploads:/app/public/uploads
+    environment:
+      - PORT=5000
+      - NODE_ENV=production
+      - JWT_SECRET=skillos-super-secret-key-1337-change-me-in-production
+      - CORS_ORIGIN=*
+      # Mocking API Integrations
+      - AWS_MOCK_STORAGE=true
+      - OPENAI_MOCK=true
+    restart: always
