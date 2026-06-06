@@ -29,38 +29,36 @@ This gap creates an opportunity for a next-generation employability platform.
 ## Project Budget Allocation
 
 Total Project Budget: ₹50,00,000
-### 👥 Human Resources (70%) – ₹35,00,000
+### 👥 Human Resources (8%) – ₹160,000
 
 | Role | Amount (₹) |
 |------|-----------:|
-| Project Manager | 8,00,000 |
-| Business Analyst | 5,00,000 |
-| Frontend Developer | 7,00,000 |
-| Backend Developer | 9,00,000 |
-| Tester / QA Engineer | 6,00,000 |
-| **Total HR Cost** | **35,00,000** |
+| Project Manager | 40,000 |
+| Business Analyst | 30,000 |
+| Frontend Developer | 30,000 |
+| Backend Developer | 30,000 |
+| Tester / QA Engineer | 30,000 |
+| Total HR Cost | 1,60,000 |
 
 ### 🏗️ Project Requirements (30%) – ₹15,00,000
 
 | Requirement | Amount (₹) |
 |------------|-----------:|
-| Cloud Infrastructure | 4,00,000 |
-| AI APIs / LLM Usage | 3,00,000 |
-| UI/UX & Design Tools | 1,00,000 |
-| Testing Tools & Automation | 1,50,000 |
-| Database & Storage | 1,50,000 |
-| Domain & Hosting | 50,000 |
+| Cloud Infrastructure | 10,000 |
+| AI APIs / LLM Usage | 15,000 |
+| UI/UX & Design Tools | 5,000 |
+| Testing Tools & Automation | 10,000 |
+| Database & Storage | 10,000 |
+| Domain & Hosting | 3,000 |
 | Security & Monitoring | 1,00,000 |
-| Miscellaneous Buffer | 3,50,000 |
-| **Total Requirement Cost** | **15,00,000** |
+| Miscellaneous Buffer | 30,000 |
+| Total Requirement Cost | 183,000 |
 
 ### 📊 Final Budget Summary
 
-| Category | Amount (₹) |
-|----------|-----------:|
-| Human Resources | 35,00,000 |
-| Project Requirements | 15,00,000 |
-| **Grand Total** | **50,00,000** |
+| Human Resources | 160,000 |
+| Project Requirements | 1,83,000 |
+| **Grand Total** | 2,43,000 |
 
 # Team Resource Allocation
 
